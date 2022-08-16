@@ -1,0 +1,19 @@
+
+input, select{
+    width: fit-content;
+    padding: inherit;
+}
+
+#dropdown {
+    width: fit-content;
+    text-align: center;
+    background-color: lavender;
+    border-radius: 5px;
+}
+
+#mobilenumber {
+    -webkit-highlight: inherit;
+    text-align: center;
+    background-color: lavender;
+    border-radius: 5px;
+}
